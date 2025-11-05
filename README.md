@@ -2,13 +2,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px">, I'm Nishan faiyaz</h1>
 <h3 align="center">Independent Cyber Security Researcher</h3>
  
-<a href="https://facebook.com/nah1d0x1"> 
+<a href="https://facebook.com/l1ackerronin"> 
  
 
 ![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)
-</a><a href="https://x.com/nahid0x1">
+</a><a href="https://x.com/l1ackerronin">
  ![X](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=)
- </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+ </a><a href="https://instagram.com/l1ackerronin"> ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 </div>
 
@@ -33,7 +33,7 @@
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 </div>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid0x1&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&hide=c" width="345"><br>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1ackerronin&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&hide=c" width="345"><br>
 
 <br><br><br><br><p>
 
@@ -42,8 +42,8 @@
 
 ## 📈 My Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nahid0x1&show_icons=true&count_private=true&theme=radical&hide_border=true" width="380"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid0x1&theme=radical&hide_border=true" width=380/>
+<img src="https://github-readme-stats.vercel.app/api?username=l1ackerronin&show_icons=true&count_private=true&theme=radical&hide_border=true" width="380"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=l1ackerronin&theme=radical&hide_border=true" width=380/>
 </div>
 <br>
 <br>
