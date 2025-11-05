@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px">, I'm Nahid</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px">, I'm Nishan faiyaz</h1>
 <h3 align="center">Independent Cyber Security Researcher</h3>
  
 <a href="https://facebook.com/nah1d0x1"> 
