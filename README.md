@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px">, I'm Nishan faiyaz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px">, I'm Nishan FaiyaZ</h1>
 <h3 align="center">Independent Cyber Security Researcher</h3>
  
 <a href="https://facebook.com/l1ackerronin"> 
@@ -14,9 +14,9 @@
 
 ## 🙋‍♂️ Whoami!
 - 🇧🇩  From Bangladesh
-- 🧑🏻‍💻 **Bug Hunter** | **Web/Android Developer** | **Pentester**
-- 🌱 I’m currently working on **Web/Android Pentesting**
-- 📫 mail to: nahid0x1.official@gmail.com
+- 🧑🏻‍💻 **Bug Hunter** | **Web/Android Developer** | **Pentester** | **AI Enthusiast**
+- 🌱 I’m currently working on **Web/Android Development**
+- 📫 mail to: l1ackerronin@gmail.com
 
 <br>
 
