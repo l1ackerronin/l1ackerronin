@@ -41,7 +41,6 @@
 - 🇧🇩 I'm from **Bangladesh**.
 - 🔭 I’m currently working on **Web/Android Development & Penetration Testing**.
 - 🌱 Learning deeper concepts of **Reverse Engineering & Exploit Development**.
-- 💬 Ask me about **Cyber Security, Python, and Linux**.
 - 📫 Reach me at: **l1ackerronin@gmail.com**
 
 ---
