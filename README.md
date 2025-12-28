@@ -2,7 +2,7 @@
  
   <!-- Profile Picture -->
   <a href="https://github.com/l1ackerronin">
-    <img src="https://avatars.githubusercontent.com/u/76641588?v=4" width="140" style="border-radius: 50%;" alt="Nishan FaiyaZ"/>
+    <img src="https://github.com/l1ackerronin/l1ackerronin/blob/main/ronin.jpg?raw=true" width="140" style="border-radius: 50%;" alt="Nishan FaiyaZ"/>
   </a>
 
   <h1 align="center">Hi There, I'm <a href="https://github.com/l1ackerronin" target="_blank">Nishan FaiyaZ</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px"></h1>
